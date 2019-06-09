@@ -1,1 +1,1 @@
-Drop Shiping Company
+Simulated drop shipping company that used data from multiple sources on the web to create fictious transactions that are stored in PostgreSQL database.  Transactions are then extracted from the PostgreSQL database for data analysis.  
