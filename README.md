@@ -2,4 +2,4 @@ Simulating transactions for a ficitious drop shipping company that uses data scr
 
 The code is written in IPython and the best way to view the code is through NBViewer.
 
-https://nbviewer.jupyter.org/github/Kwan-Tang/Projects/blob/master/drop_shipping.ipynb
+https://nbviewer.jupyter.org/github/kwan-tang/drop_shipping/blob/master/drop_shipping.ipynb
