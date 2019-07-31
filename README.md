@@ -4,8 +4,5 @@ The code is written in IPython and the best way to view the code is through NBVi
 
 https://nbviewer.jupyter.org/github/kwan-tang/drop_shipping/blob/master/drop_shipping.ipynb
 
-<img src="charts.PNG">
-<img src="map.PNG">
-
 ![](images/charts.PNG)
 ![](images/map.PNG)
